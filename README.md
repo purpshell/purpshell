@@ -1,13 +1,15 @@
 Open-source contributor and high-school student. 
 
-  - Proud Lebanese 🇱🇧
+  - 🇱🇧 Proud Lebanese 
   - 📗 I love to learn more everyday.
   - 🧰 I began programming when I was 11 years old.
   - ❤️ You can support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
 
-You can contact me using the options on the left. I will only respond to [Discord messages](https://purpshell.dev/discord) in regards to questions or help.
+ <details><summary>ℹ discord contact</summary> @ purpshell </details> 
 
-  <details><summary>Click to see what I use on a daily basis</summary>
+You can contact me using the options on the left. I will only respond to Discord messages in regards to questions or help.
+
+  <details><summary>🔮 what do I use?</summary>
 
 <h3>programming languages</h3>
 <p>
