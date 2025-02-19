@@ -1,5 +1,7 @@
 Open-source contributor and high-school student. 
 
+Some of my most notable work to date is on the Baileys and WWebJS projects, two prominent hubs for WhatsApp automation. I love programming side-projects for fun as well.
+
   - 🇱🇧 Proud Lebanese 
   - 📗 I love to learn more everyday.
   - 🧰 I began programming when I was 11 years old.
