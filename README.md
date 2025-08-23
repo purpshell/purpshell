@@ -1,4 +1,4 @@
-Open-source contributor and high-school student. 
+Open-source contributor and uni student. 
 
 Some of my most notable work to date is on the Baileys and WWebJS projects, two prominent hubs for WhatsApp automation. I love programming side-projects for fun as well.
 
