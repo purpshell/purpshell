@@ -1,10 +1,7 @@
-Open-source contributor and uni student. 
+Reverse engineer, Open-source maintainer and uni student.
 
-Some of my most notable work to date is on the Baileys and WWebJS projects, two prominent hubs for WhatsApp automation. I love programming side-projects for fun as well.
-
-  - 🇱🇧 Proud Lebanese.
   - 📗 I love to learn more everyday.
-  - 🧰 I began programming when I was 11 years old.
+  - 🧰 I began programming when I was just 9 years old.
   - ❤️ You can support my open source work on [GitHub Sponsors](https://github.com/sponsors/purpshell).
 
  <details><summary>ℹ discord contact</summary> @ purpshell </details> 
