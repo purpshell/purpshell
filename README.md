@@ -1,15 +1,15 @@
-Reverse engineer, Open-source maintainer and uni student.
+Lebanese 🇱🇧 Reverse engineer and maintainer of OSS ecosystems. You may know me for my work on WWebJS, Baileys, whatsmeow and other automation repositories.
 
-  - 📗 I love to learn more everyday.
-  - 🧰 I began programming when I was just 9 years old.
-  - ❤️ You can support my open source work on [GitHub Sponsors](https://github.com/sponsors/purpshell).
+### NEW: You can book a 1 hour video meeting with me [here](https://purpshell.dev/book).
 
- <details><summary>ℹ discord contact</summary> @ purpshell </details> 
+### Contact options
+I'm open to contact via the following methods only:
+- Discord (preferred): purpshell
+- Email: rajeh@reforward.dev
+- Get access to WhatsApp/Slack contact by [sponsoring](https://purpshell.dev/sponsor). Each of your contributions go towards building better open-source software.
 
-You can contact me using the options on the left. I will only respond to Discord messages in regards to questions or help.
-
-  <details><summary>🔮 what do I use?</summary>
-
+<h2> What do I use? (as of 2025) </h2> 
+  
 <h3>programming languages</h3>
 <p>
 
