@@ -5,6 +5,7 @@ Lebanese 🇱🇧 Reverse engineer and maintainer of OSS ecosystems. You may kno
 ### Contact options
 I'm open to contact via the following methods only:
 - Discord (preferred): purpshell
+- LinkedIn: /in/purpshell
 - Email: rajeh@reforward.dev
 - Get access to WhatsApp/Slack contact by [sponsoring](https://purpshell.dev/sponsor). Each of your contributions go towards building better open-source software.
 
