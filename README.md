@@ -1,6 +1,6 @@
-Lebanese 🇱🇧 Reverse engineer and maintainer of OSS ecosystems. You may know me for my work on WWebJS, Baileys, whatsmeow and other automation repositories.
+Reverse engineer and business owner. You may know me for my work on WWebJS, Baileys, whatsmeow, and meowcaller, just to name a few.
 
-### NEW: You can book a 1 hour video meeting with me [here](https://purpshell.dev/book).
+### 🆕 You can book a 1 hour 1:1 or group video meeting with me [here](https://purpshell.dev/book). Only a few spots are left this quarter so book early.
 
 ### Contact options
 I'm open to contact via the following methods only:
