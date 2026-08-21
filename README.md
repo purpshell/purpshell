@@ -5,6 +5,6 @@ Reverse engineer and business owner. You may know me for my work on WWebJS, Bail
 ### Contact options
 I'm open to contact via the following methods only:
 - Discord (preferred): purpshell
-- LinkedIn: /in/purpshell (only if you have worked with me before or if I know you somehow)
+- LinkedIn: /in/purpshell 
 - Email: rajeh@reforward.dev
 - Get access to WhatsApp/Slack contact by [sponsoring](https://purpshell.dev/sponsor). Each of your contributions go towards building better open-source software.
