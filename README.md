@@ -4,7 +4,7 @@ You may know me for my work on [whatsapp-web.js](github.com/pedroslopez/whatsapp
 
 I work on [hypermeow](https://github.com/polymorfa/hypermeow) (efficient & fast whatsmeow), [whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) and [meowcaller](github.com/purpshell/meowcaller).
 
-### Other contact options
+### Contact options
 I'm open to contact via the following methods only:
 - Discord (preferred): purpshell
 - LinkedIn: [/in/purpshell](https://linkedin.com/in/purpshell) 
