@@ -1,4 +1,6 @@
-Reverse engineer and business owner. You may know me for my work on WWebJS, Baileys, whatsmeow, and meowcaller, just to name a few.
+Reverse engineer and business owner. 
+
+You may know me for my work on WWebJS, Baileys, whatsmeow, and meowcaller, just to name a few.
 
 ### Other contact options
 I'm open to contact via the following methods only:
