@@ -1,4 +1,4 @@
-Reverse engineer and business owner. 
+Founder and business owner. 
 
 You may know me for my work on WWebJS, Baileys, whatsmeow, and meowcaller, just to name a few.
 
