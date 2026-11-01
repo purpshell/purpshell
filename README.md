@@ -1,4 +1,6 @@
-Pushing the frontier of WhatsApp automation. Co-Founder & CTO @ [Polymorfa](polymorfa.com). Previously: [@automattic](github.com/automattic) on [@beeper](github.com/beeper), [@whaticket](github.com/whaticket), and BotConversa. 
+Pushing the frontier of WhatsApp automation. 
+
+Co-Founder & CTO @ [Polymorfa](polymorfa.com). Previously: [@automattic](github.com/automattic) on [@beeper](github.com/beeper), [@whaticket](github.com/whaticket), and BotConversa. 
 
 You may know me for my work on [whatsapp-web.js](github.com/pedroslopez/whatsapp-web.js), [Baileys](github.com/whiskeysockets/baileys), [whatsmeow](github.com/tulir/whatsmeow). 
 
